@@ -1,6 +1,4 @@
-# Bike Sharing Demand Analysis - Regression
-
-**Complete Video Tutorial:** https://youtu.be/P77bDN7qAlc
+# Bike Sharing Demand Forecast: A Regression-Based Approach
 
 # Dataset Information
 
@@ -35,7 +33,7 @@ Both hour.csv and day.csv have the following fields, except hr which is not avai
 - registered: count of registered users
 - cnt: count of total rental bikes including both casual and registered
 
-**Download link:** https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset
+
 
 # Libraries
 
